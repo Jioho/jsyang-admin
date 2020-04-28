@@ -1,0 +1,330 @@
+2020-04-02 19:41:05,363 INFO 37288 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2020-04-02 19:44:30,479 INFO 37288 [egg-sequelize](50ms) Executed (default): SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;
+2020-04-02 19:45:10,011 INFO 37288 [egg-sequelize](28ms) Executed (default): SELECT `id`, `produceName`, `img`, `content`, `created_at`, `updated_at` FROM `beidouSystems` AS `beidouSystem` ORDER BY `beidouSystem`.`id` DESC;
+2020-04-02 19:46:52,342 INFO 37288 [egg-sequelize](4ms) Executed (default): SELECT `id`, `produceName`, `img`, `content`, `created_at`, `updated_at` FROM `beidouSystems` AS `beidouSystem` ORDER BY `beidouSystem`.`id` DESC;
+2020-04-02 19:50:22,010 INFO 37288 [egg-sequelize](5ms) Executed (default): SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;
+2020-04-02 19:50:22,043 INFO 37288 [egg-sequelize](1ms) Executed (default): SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;
+2020-04-02 19:50:32,704 INFO 37288 [egg-sequelize](8ms) Executed (default): SELECT `id`, `produceName`, `img`, `content`, `created_at`, `updated_at` FROM `beidouSystems` AS `beidouSystem` ORDER BY `beidouSystem`.`id` DESC;
+2020-04-02 19:50:34,073 INFO 37288 [egg-sequelize](1244ms) Executed (default): SELECT `id`, `produceName`, `img`, `content`, `created_at`, `updated_at` FROM `smartCities` AS `smartCity` ORDER BY `smartCity`.`id` DESC;
+2020-04-02 19:50:35,130 INFO 37288 [egg-sequelize](904ms) Executed (default): SELECT `id`, `produceName`, `img`, `content`, `created_at`, `updated_at` FROM `iots` AS `iot` ORDER BY `iot`.`id` DESC;
+2020-04-25 21:52:45,050 INFO 30127 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2020-04-25 22:10:04,211 INFO 30127 [egg-sequelize](8ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin` LIMIT 1;
+2020-04-25 22:10:04,242 ERROR 30127 [-/127.0.0.1/-/511ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/app/controller/admins.js:77:15)
+    at async errorHandler (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/app/middleware/error_handler.js:4:7)
+    at async /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.5.13.1@koa-session/index.js:41:7)
+    at async bodyParser (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.5.1.2@koa-static-cache/index.js:51:63
+    at async notfound (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.26.0@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.26.0@egg/app/middleware/meta.js:12:5)
+    at async cors (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.0.0@@koa/cors/index.js:88:16)
+
+pid: 30127
+hostname: huangyaangdeAir.lan
+
+2020-04-25 22:12:01,128 INFO 30735 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2020-04-25 22:12:17,412 INFO 30735 [egg-sequelize](7ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin` LIMIT 1;
+2020-04-25 22:12:17,417 ERROR 30735 [-/127.0.0.1/-/133ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/app/controller/admins.js:77:15)
+    at async errorHandler (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/app/middleware/error_handler.js:4:7)
+    at async /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.5.13.1@koa-session/index.js:41:7)
+    at async bodyParser (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.5.1.2@koa-static-cache/index.js:51:63
+    at async notfound (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.26.0@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.26.0@egg/app/middleware/meta.js:12:5)
+    at async cors (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.0.0@@koa/cors/index.js:88:16)
+
+pid: 30735
+hostname: huangyaangdeAir.lan
+
+2020-04-25 22:13:00,888 INFO 30735 [egg-sequelize](2ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin` LIMIT 1;
+2020-04-25 22:13:00,897 ERROR 30735 [-/127.0.0.1/-/33ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/app/controller/admins.js:77:15)
+    at async errorHandler (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/app/middleware/error_handler.js:4:7)
+    at async /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.5.13.1@koa-session/index.js:41:7)
+    at async bodyParser (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.5.1.2@koa-static-cache/index.js:51:63
+    at async notfound (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.26.0@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.26.0@egg/app/middleware/meta.js:12:5)
+    at async cors (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.0.0@@koa/cors/index.js:88:16)
+
+pid: 30735
+hostname: huangyaangdeAir.lan
+
+2020-04-25 22:15:49,915 INFO 30735 [egg-sequelize](2ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin` LIMIT 1;
+2020-04-25 22:15:52,999 INFO 30735 [egg-sequelize](3ms) Executed (default): SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;
+2020-04-25 22:18:37,023 INFO 30735 [egg-sequelize](6ms) Executed (default): SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;
+2020-04-25 22:19:25,105 INFO 30735 [egg-sequelize](6ms) Executed (default): SELECT `id`, `stateName`, `img`, `content`, `created_at`, `updated_at` FROM `enterpriseStates` AS `enterpriseState` ORDER BY `enterpriseState`.`id` DESC;
+2020-04-25 22:19:30,088 INFO 30735 [egg-sequelize](2ms) Executed (default): SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;
+2020-04-25 22:22:37,979 INFO 30735 [egg-sequelize](3ms) Executed (default): SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;
+2020-04-25 22:23:25,690 INFO 30735 [egg-sequelize](2ms) Executed (default): SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;
+2020-04-25 22:26:17,536 INFO 30735 [egg-sequelize](2ms) Executed (default): SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;
+2020-04-25 22:51:14,775 INFO 30735 [egg-sequelize](7ms) Executed (default): SELECT `id`, `name`, `time`, `created_at`, `updated_at` FROM `developmentHistories` AS `developmentHistory` ORDER BY `developmentHistory`.`id` DESC;
+2020-04-25 22:52:00,123 INFO 30735 [egg-sequelize](3ms) Executed (default): SELECT `id`, `stateName`, `img`, `content`, `created_at`, `updated_at` FROM `enterpriseStates` AS `enterpriseState` ORDER BY `enterpriseState`.`id` DESC;
+2020-04-28 14:01:07,441 INFO 21368 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 14:04:54,669 INFO 21368 [egg-sequelize](4ms) Executed (default): SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;
+2020-04-28 14:04:54,745 ERROR 21368 [-/127.0.0.1/-/69ms GET /api/infos?] nodejs.SequelizeDatabaseError: Unknown column 'id' in 'field list'
+    at Query.formatError (G:\work\project\yuanqu\yuanqu-admin\node_modules\_sequelize@4.44.4@sequelize\lib\dialects\mysql\query.js:247:16)
+    at Query.handler [as onResult] (G:\work\project\yuanqu\yuanqu-admin\node_modules\_sequelize@4.44.4@sequelize\lib\dialects\mysql\query.js:68:23)
+    at Query.execute (G:\work\project\yuanqu\yuanqu-admin\node_modules\_mysql2@1.7.0@mysql2\lib\commands\command.js:30:14)
+    at Connection.handlePacket (G:\work\project\yuanqu\yuanqu-admin\node_modules\_mysql2@1.7.0@mysql2\lib\connection.js:408:32)
+    at PacketParser.Connection.packetParser.p [as onPacket] (G:\work\project\yuanqu\yuanqu-admin\node_modules\_mysql2@1.7.0@mysql2\lib\connection.js:70:12)
+    at PacketParser.executeStart (G:\work\project\yuanqu\yuanqu-admin\node_modules\_mysql2@1.7.0@mysql2\lib\packet_parser.js:75:16)
+    at Socket.Connection.stream.on.data (G:\work\project\yuanqu\yuanqu-admin\node_modules\_mysql2@1.7.0@mysql2\lib\connection.js:77:25)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+From previous event:
+    at Promise.longStackTracesCaptureStackTrace [as _captureStackTrace] (G:\work\project\yuanqu\yuanqu-admin\node_modules\_bluebird@3.7.2@bluebird\js\release\debuggability.js:482:19)
+    at Promise._then (G:\work\project\yuanqu\yuanqu-admin\node_modules\_bluebird@3.7.2@bluebird\js\release\promise.js:261:17)
+    at Promise.then (G:\work\project\yuanqu\yuanqu-admin\node_modules\_bluebird@3.7.2@bluebird\js\release\promise.js:154:17)
+    at Function.findAll (G:\work\project\yuanqu\yuanqu-admin\node_modules\_sequelize@4.44.4@sequelize\lib\model.js:1595:8)
+    at InfoController.index (G:\work\project\yuanqu\yuanqu-admin\app\controller\infos.js:19:41)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at errorHandler (G:\work\project\yuanqu\yuanqu-admin\app\middleware\error_handler.js:4:13)
+    at fn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\middleware.js:112:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at multipart (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-multipart@2.10.2@egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at i18n (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-i18n@2.1.1@egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dta (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'id' in 'field list'","sql":"SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;"}
+original: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'id' in 'field list'","sql":"SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;"}
+sql: "SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;"
+pid: 21368
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 14:08:11,841 INFO 21368 [egg-sequelize](5ms) Executed (default): SELECT `id`, `name`, `time`, `created_at`, `updated_at` FROM `developmentHistories` AS `developmentHistory` ORDER BY `developmentHistory`.`id` DESC;
+2020-04-28 14:08:13,703 INFO 21368 [egg-sequelize](7ms) Executed (default): SELECT `id`, `stateName`, `img`, `content`, `created_at`, `updated_at` FROM `enterpriseStates` AS `enterpriseState` ORDER BY `enterpriseState`.`id` DESC;
+2020-04-28 14:08:16,755 INFO 21368 [egg-sequelize](5ms) Executed (default): SELECT `id`, `name`, `email`, `phone`, `address`, `message`, `created_at`, `updated_at` FROM `leaveMsgs` AS `leaveMsg` ORDER BY `leaveMsg`.`id` DESC;
+2020-04-28 14:08:21,507 INFO 21368 [egg-sequelize](7ms) Executed (default): SELECT `id`, `partnerMsg`, `created_at`, `updated_at` FROM `partners` AS `partner` ORDER BY `partner`.`id` DESC;
+2020-04-28 14:08:25,570 INFO 21368 [egg-sequelize](6ms) Executed (default): SELECT `id`, `produceName`, `img`, `content`, `created_at`, `updated_at` FROM `beidouSystems` AS `beidouSystem` ORDER BY `beidouSystem`.`id` DESC;
+2020-04-28 14:08:28,450 INFO 21368 [egg-sequelize](6ms) Executed (default): SELECT `id`, `produceName`, `img`, `content`, `created_at`, `updated_at` FROM `iots` AS `iot` ORDER BY `iot`.`id` DESC;
+2020-04-28 14:08:30,346 INFO 21368 [egg-sequelize](4ms) Executed (default): SELECT `id`, `produceName`, `img`, `content`, `created_at`, `updated_at` FROM `smartCities` AS `smartCity` ORDER BY `smartCity`.`id` DESC;
+2020-04-28 15:16:12,263 INFO 21368 [egg-sequelize](4ms) Executed (default): SELECT `id`, `name`, `time`, `created_at`, `updated_at` FROM `developmentHistories` AS `developmentHistory` ORDER BY `developmentHistory`.`id` DESC;
+2020-04-28 15:16:20,743 INFO 21368 [egg-sequelize](60ms) Executed (default): SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;
+2020-04-28 15:19:00,474 INFO 21368 [egg-sequelize](4ms) Executed (default): SELECT `id`, `name`, `time`, `created_at`, `updated_at` FROM `developmentHistories` AS `developmentHistory` ORDER BY `developmentHistory`.`id` DESC;
+2020-04-28 15:19:07,244 INFO 21368 [egg-sequelize](1ms) Executed (default): SELECT `id`, `name`, `time`, `created_at`, `updated_at` FROM `developmentHistories` AS `developmentHistory` ORDER BY `developmentHistory`.`id` DESC;
+2020-04-28 15:22:34,024 ERROR 21368 [-/127.0.0.1/-/151ms POST /api/code/produce] nodejs.ReferenceError: INTEGER is not defined
+    at eval (eval at objStr2Obj (G:\work\project\yuanqu\yuanqu-admin\app\extend\helper.js:33:38), <anonymous>:2:17)
+    at Helper.objStr2Obj (G:\work\project\yuanqu\yuanqu-admin\app\extend\helper.js:33:38)
+    at CodeController.produce (G:\work\project\yuanqu\yuanqu-admin\app\controller\code.js:61:46)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at errorHandler (G:\work\project\yuanqu\yuanqu-admin\app\middleware\error_handler.js:4:13)
+    at fn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\middleware.js:112:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at multipart (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-multipart@2.10.2@egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at i18n (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-i18n@2.1.1@egg-i18n\app\middleware\i18n.js:13:12)
+
+pid: 21368
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 15:24:08,452 INFO 21368 [egg-sequelize](3ms) Executed (default): SELECT `id`, `name`, `time`, `created_at`, `updated_at` FROM `developmentHistories` AS `developmentHistory` ORDER BY `developmentHistory`.`id` DESC;
+2020-04-28 15:27:58,443 ERROR 21368 [-/127.0.0.1/-/44ms POST /api/code/produce] nodejs.ReferenceError: INTEGER is not defined
+    at eval (eval at objStr2Obj (G:\work\project\yuanqu\yuanqu-admin\app\extend\helper.js:33:38), <anonymous>:2:17)
+    at Helper.objStr2Obj (G:\work\project\yuanqu\yuanqu-admin\app\extend\helper.js:33:38)
+    at CodeController.produce (G:\work\project\yuanqu\yuanqu-admin\app\controller\code.js:61:46)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at errorHandler (G:\work\project\yuanqu\yuanqu-admin\app\middleware\error_handler.js:4:13)
+    at fn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\middleware.js:112:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at multipart (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-multipart@2.10.2@egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at i18n (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-i18n@2.1.1@egg-i18n\app\middleware\i18n.js:13:12)
+
+pid: 21368
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 15:33:57,021 ERROR 21368 [-/127.0.0.1/-/87ms POST /api/code/produce] nodejs.SyntaxError: Unexpected identifier
+    at Helper.objStr2Obj (G:\work\project\yuanqu\yuanqu-admin\app\extend\helper.js:33:47)
+    at CodeController.produce (G:\work\project\yuanqu\yuanqu-admin\app\controller\code.js:61:46)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at errorHandler (G:\work\project\yuanqu\yuanqu-admin\app\middleware\error_handler.js:4:13)
+    at fn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\middleware.js:112:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at multipart (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-multipart@2.10.2@egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at i18n (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-i18n@2.1.1@egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 21368
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 15:35:05,334 ERROR 21368 [-/127.0.0.1/-/9ms POST /api/code/produce] nodejs.ReferenceError: DATE is not defined
+    at eval (eval at objStr2Obj (G:\work\project\yuanqu\yuanqu-admin\app\extend\helper.js:33:38), <anonymous>:5:17)
+    at Helper.objStr2Obj (G:\work\project\yuanqu\yuanqu-admin\app\extend\helper.js:33:38)
+    at CodeController.produce (G:\work\project\yuanqu\yuanqu-admin\app\controller\code.js:61:46)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at errorHandler (G:\work\project\yuanqu\yuanqu-admin\app\middleware\error_handler.js:4:13)
+    at fn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\middleware.js:112:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at multipart (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-multipart@2.10.2@egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at i18n (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-i18n@2.1.1@egg-i18n\app\middleware\i18n.js:13:12)
+
+pid: 21368
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 15:41:39,626 INFO 23152 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 15:42:21,117 INFO 21844 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 15:45:41,125 INFO 21844 [egg-sequelize](5ms) Executed (default): SELECT `id`, `name`, `url`, `created_at`, `updated_at` FROM `friendLinks` AS `friendLink` ORDER BY `friendLink`.`id` DESC;
+2020-04-28 15:46:09,466 INFO 21844 [egg-sequelize](96ms) Executed (default): INSERT INTO `friendLinks` (`id`,`name`,`url`,`created_at`,`updated_at`) VALUES (DEFAULT,'百度','https://www.baidu.com','2020-04-28 07:46:09','2020-04-28 07:46:09');
+2020-04-28 15:46:09,822 INFO 21844 [egg-sequelize](4ms) Executed (default): SELECT `id`, `name`, `url`, `created_at`, `updated_at` FROM `friendLinks` AS `friendLink` ORDER BY `friendLink`.`id` DESC;
+2020-04-28 15:46:36,130 INFO 21844 [egg-sequelize](81ms) Executed (default): INSERT INTO `friendLinks` (`id`,`name`,`url`,`created_at`,`updated_at`) VALUES (DEFAULT,'淘宝网','https://www.taobao.com','2020-04-28 07:46:36','2020-04-28 07:46:36');
+2020-04-28 15:46:36,487 INFO 21844 [egg-sequelize](1ms) Executed (default): SELECT `id`, `name`, `url`, `created_at`, `updated_at` FROM `friendLinks` AS `friendLink` ORDER BY `friendLink`.`id` DESC;
+2020-04-28 15:46:53,211 INFO 21844 [egg-sequelize](31ms) Executed (default): INSERT INTO `friendLinks` (`id`,`name`,`url`,`created_at`,`updated_at`) VALUES (DEFAULT,'腾讯','https://www.tencent.com','2020-04-28 07:46:53','2020-04-28 07:46:53');
+2020-04-28 15:46:53,548 INFO 21844 [egg-sequelize](1ms) Executed (default): SELECT `id`, `name`, `url`, `created_at`, `updated_at` FROM `friendLinks` AS `friendLink` ORDER BY `friendLink`.`id` DESC;
+2020-04-28 15:49:49,087 INFO 21844 [egg-sequelize](5ms) Executed (default): SELECT `id`, `name`, `time`, `created_at`, `updated_at` FROM `developmentHistories` AS `developmentHistory` ORDER BY `developmentHistory`.`id` DESC;
+2020-04-28 15:49:57,539 INFO 21844 [egg-sequelize](4ms) Executed (default): SELECT `id`, `stateName`, `img`, `content`, `created_at`, `updated_at` FROM `enterpriseStates` AS `enterpriseState` ORDER BY `enterpriseState`.`id` DESC;
+2020-04-28 15:50:00,738 INFO 21844 [egg-sequelize](5ms) Executed (default): SELECT `id`, `title`, `img`, `content`, `created_at`, `updated_at` FROM `news` AS `news` ORDER BY `news`.`id` DESC;
+2020-04-28 15:50:02,000 INFO 21844 [egg-sequelize](8ms) Executed (default): SELECT `id`, `name`, `email`, `phone`, `address`, `message`, `created_at`, `updated_at` FROM `leaveMsgs` AS `leaveMsg` ORDER BY `leaveMsg`.`id` DESC;
+2020-04-28 15:50:03,581 INFO 21844 [egg-sequelize](6ms) Executed (default): SELECT `id`, `partnerMsg`, `created_at`, `updated_at` FROM `partners` AS `partner` ORDER BY `partner`.`id` DESC;
+2020-04-28 15:50:05,648 INFO 21844 [egg-sequelize](6ms) Executed (default): SELECT `id`, `produceName`, `img`, `content`, `created_at`, `updated_at` FROM `beidouSystems` AS `beidouSystem` ORDER BY `beidouSystem`.`id` DESC;
+2020-04-28 15:51:43,336 INFO 21844 [egg-sequelize](4ms) Executed (default): SELECT `id`, `produceName`, `img`, `content`, `created_at`, `updated_at` FROM `beidouSystems` AS `beidouSystem` ORDER BY `beidouSystem`.`id` DESC;
+2020-04-28 16:01:31,838 INFO 21120 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 16:01:53,300 INFO 18448 [egg-sequelize](9ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 16:03:22,153 INFO 10208 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 16:06:07,047 INFO 2236 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 16:07:19,588 INFO 9112 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 16:08:20,680 INFO 20944 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 16:32:14,995 INFO 1328 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 16:33:20,223 INFO 21472 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 16:34:00,292 INFO 21724 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 16:41:21,583 INFO 22656 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 16:43:32,771 INFO 18000 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 16:43:37,965 INFO 23032 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 16:44:58,313 INFO 23032 [egg-sequelize](9ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin`;
+2020-04-28 16:53:58,395 INFO 23032 [egg-sequelize](5ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin`;
+2020-04-28 16:58:32,426 INFO 12980 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 17:03:05,933 INFO 12980 [egg-sequelize](4ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin`;
+2020-04-28 17:10:23,999 INFO 7532 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 17:10:32,080 INFO 7532 [egg-sequelize](3ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin` LIMIT 1;
+2020-04-28 17:10:32,093 ERROR 7532 [-/127.0.0.1/-/68ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (G:\work\project\yuanqu\yuanqu-admin\app\controller\admins.js:77:15)
+
+pid: 7532
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:11:37,134 INFO 7532 [egg-sequelize](1ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin` LIMIT 1;
+2020-04-28 17:11:37,272 ERROR 7532 [-/127.0.0.1/-/127ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (G:\work\project\yuanqu\yuanqu-admin\app\controller\admins.js:77:15)
+
+pid: 7532
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:12:47,357 INFO 21084 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 17:13:06,522 INFO 21084 [egg-sequelize](4ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin` LIMIT 1;
+2020-04-28 17:13:06,540 ERROR 21084 [-/127.0.0.1/-/94ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (G:\work\project\yuanqu\yuanqu-admin\app\controller\admins.js:85:15)
+
+pid: 21084
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:13:49,637 INFO 23612 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 17:15:01,661 INFO 23612 [egg-sequelize](5ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin` LIMIT 1;
+2020-04-28 17:15:02,771 ERROR 23612 [-/127.0.0.1/-/1213ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (G:\work\project\yuanqu\yuanqu-admin\app\controller\admins.js:85:15)
+
+pid: 23612
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:15:09,543 INFO 11720 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 17:15:41,028 INFO 11720 [egg-sequelize](5ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin` LIMIT 1;
+2020-04-28 17:15:41,067 ERROR 11720 [-/127.0.0.1/-/110ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (G:\work\project\yuanqu\yuanqu-admin\app\controller\admins.js:86:15)
+
+pid: 11720
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:16:54,785 INFO 1548 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 17:17:13,881 INFO 1548 [egg-sequelize](2ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin` LIMIT 1;
+2020-04-28 17:17:40,595 INFO 1548 [egg-sequelize](5ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin` LIMIT 1;
+2020-04-28 17:18:04,527 INFO 24496 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2020-04-28 17:18:58,676 INFO 24496 [egg-sequelize](3ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin`;
+2020-04-28 17:19:22,542 INFO 24496 [egg-sequelize](33ms) Executed (default): INSERT INTO `admins` (`id`,`username`,`password`,`created_at`,`updated_at`) VALUES (DEFAULT,'test','test111','2020-04-28 09:19:22','2020-04-28 09:19:22');
+2020-04-28 17:19:22,751 INFO 24496 [egg-sequelize](3ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin`;
+2020-04-28 17:19:36,808 INFO 24496 [egg-sequelize](1ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin` LIMIT 1;
+2020-04-28 17:22:01,226 INFO 24496 [egg-sequelize](5ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin`;
+2020-04-28 17:22:02,357 INFO 24496 [egg-sequelize](1ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin`;

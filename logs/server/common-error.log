@@ -1,0 +1,2378 @@
+2020-03-12 13:39:52,868 ERROR 35160 [egg-redis] client error: Error: read ECONNRESET
+2020-03-12 13:39:54,805 ERROR 35160 nodejs.ECONNRESETError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "ECONNRESETError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:00,743 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:00,782 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:00,998 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:01,004 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:01,312 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:01,383 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:01,878 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:02,253 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:04,192 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:04,198 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:04,598 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:05,201 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:06,356 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:06,399 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:06,834 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:06,839 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:07,430 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:07,440 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:07,995 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:08,007 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:08,665 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:08,687 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:09,399 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:09,402 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:10,073 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:10,077 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:10,816 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:10,824 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:11,604 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:11,609 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:12,448 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:12,458 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:13,370 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:13,373 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:14,291 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:14,339 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:15,315 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:15,322 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:16,374 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:16,377 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:17,443 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:17,447 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:18,568 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:18,573 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:19,746 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:19,751 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:20,971 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:20,975 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:22,243 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:22,247 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:23,560 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:23,577 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:24,950 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:24,954 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:26,370 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:26,373 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:27,839 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:27,849 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:29,371 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:29,374 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:30,944 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:30,947 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:32,563 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:32,566 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:34,250 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:34,255 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:35,983 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:35,987 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:37,754 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:37,758 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:39,577 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:39,580 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:41,449 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:41,453 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:43,386 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:43,391 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:45,369 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:45,372 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:47,392 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:47,395 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:49,413 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:49,416 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:51,438 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:51,441 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:53,481 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:53,484 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:56,433 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:40:57,250 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:40:59,397 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:01,472 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:04,247 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:04,251 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:06,303 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:06,904 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:09,077 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:09,081 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:11,111 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:11,115 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:13,138 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:13,144 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:15,164 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:15,168 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:17,216 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:17,220 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:19,239 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:19,242 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:21,270 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:21,301 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:23,382 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:23,386 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:25,410 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:25,413 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:27,434 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:27,437 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:29,461 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:29,464 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:31,491 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:31,495 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:33,512 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:33,516 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:35,606 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:35,725 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:37,859 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:38,761 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:42,031 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:42,034 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:44,146 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:44,810 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:50,040 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:50,047 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:52,085 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:52,093 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:54,111 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:54,114 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:56,129 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:56,133 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:41:58,159 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:41:58,163 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:00,194 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:00,199 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:02,245 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:02,252 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:04,291 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:04,294 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:06,312 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:06,335 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:08,360 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:08,364 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:10,385 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:10,404 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:12,428 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:12,432 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:14,451 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:14,454 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:16,478 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:16,482 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:18,503 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:18,506 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:20,524 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:20,529 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:22,574 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:22,577 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:24,596 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:24,601 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:26,620 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:26,625 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:28,645 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:28,649 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:30,671 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:30,675 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:32,698 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:32,701 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:34,728 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:34,735 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:36,758 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:36,764 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:38,789 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:38,793 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:40,824 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:40,832 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:42,859 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:42,865 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:44,896 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:44,902 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:46,940 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:46,948 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:48,975 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:48,981 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:51,016 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:51,022 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:53,084 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:53,097 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:55,295 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:55,387 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:42:57,710 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:42:58,219 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-03-12 13:43:00,287 ERROR 35160 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-03-12 13:43:00,788 ERROR 35160 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 35160
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:03,131 ERROR 37288 [egg-redis] client error: Error: read ECONNRESET
+2020-04-02 20:02:04,595 ERROR 37288 nodejs.ECONNRESETError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "ECONNRESETError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:05,240 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:07,435 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:09,495 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:09,505 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:09,663 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:09,664 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:10,043 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:11,726 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:11,987 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:11,988 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:12,404 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:12,405 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:12,924 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:14,622 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:15,899 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:16,037 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:16,529 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:16,530 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:17,036 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:17,038 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:17,600 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:17,602 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:18,229 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:18,230 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:18,886 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:18,887 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:19,597 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:19,600 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:20,447 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:20,448 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:21,255 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:21,256 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:22,123 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:22,126 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:23,038 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:23,251 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:24,587 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:24,588 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:25,698 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:25,699 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:26,869 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:27,806 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:29,167 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:29,168 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:30,327 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:30,329 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:31,739 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:31,741 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:33,029 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:33,031 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:02:34,544 ERROR 37288 [egg-redis] client error: Error: connect ENETUNREACH 39.105.19.132:6489
+2020-04-02 20:02:37,135 ERROR 37288 nodejs.ENETUNREACHError: connect ENETUNREACH 39.105.19.132:6489
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+errno: "ENETUNREACH"
+code: "ENETUNREACH"
+syscall: "connect"
+address: "39.105.19.132"
+port: 6489
+name: "ENETUNREACHError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-02 20:03:26,404 ERROR 37288 [egg-redis] client error: Error: read ECONNRESET
+2020-04-02 20:03:26,425 ERROR 37288 nodejs.ECONNRESETError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "ECONNRESETError"
+pid: 37288
+hostname: DESKTOP-A1O76C8
+
+2020-04-25 21:45:57,169 ERROR 29848 nodejs.SequelizeAccessDeniedError: Access denied for user 'root'@'localhost' (using password: NO)
+    at /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.4.44.4@sequelize/lib/dialects/mysql/connection-manager.js:141:19
+    at tryCatcher (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.7.2@bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.7.2@bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.7.2@bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.7.2@bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.7.2@bluebird/js/release/promise.js:725:18)
+    at _drainQueueStep (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.7.2@bluebird/js/release/async.js:93:12)
+    at _drainQueue (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.7.2@bluebird/js/release/async.js:86:9)
+    at Async._drainQueues (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.7.2@bluebird/js/release/async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.7.2@bluebird/js/release/async.js:15:14)
+From previous event:
+    at Promise.longStackTracesCaptureStackTrace [as _captureStackTrace] (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.7.2@bluebird/js/release/debuggability.js:482:19)
+    at Function.Promise.attempt.Promise.try (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.7.2@bluebird/js/release/method.js:29:9)
+    at /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.4.44.4@sequelize/lib/sequelize.js:457:64
+    at /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.3.2@retry-as-promised/index.js:39:21
+    at Promise._execute (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.7.2@bluebird/js/release/debuggability.js:384:9)
+    at Promise._resolveFromExecutor (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.7.2@bluebird/js/release/promise.js:518:18)
+    at new Promise (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.7.2@bluebird/js/release/promise.js:103:10)
+    at retryAsPromised (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.3.2@retry-as-promised/index.js:29:10)
+    at Sequelize.query (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.4.44.4@sequelize/lib/sequelize.js:457:28)
+    at Sequelize.authenticate (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.4.44.4@sequelize/lib/sequelize.js:786:17)
+    at authenticate (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.4.3.1@egg-sequelize/lib/loader.js:129:22)
+    at /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.4.3.1@egg-sequelize/lib/loader.js:40:49
+    at Array.map (<anonymous>)
+    at /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.4.3.1@egg-sequelize/lib/loader.js:40:33
+    at Object.callFn (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.4.17.4@egg-core/lib/utils/index.js:44:42)
+    at /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.4.17.4@egg-core/lib/lifecycle.js:256:13
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+name: "SequelizeAccessDeniedError"
+parent: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'localhost' (using password: NO)"}
+original: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'localhost' (using password: NO)"}
+pid: 29848
+hostname: huangyaangdeAir.lan
+
+2020-04-25 22:10:04,216 ERROR 30127 [-/127.0.0.1/-/511ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/app/controller/admins.js:77:15)
+    at async errorHandler (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/app/middleware/error_handler.js:4:7)
+    at async /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.5.13.1@koa-session/index.js:41:7)
+    at async bodyParser (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.5.1.2@koa-static-cache/index.js:51:63
+    at async notfound (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.26.0@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.26.0@egg/app/middleware/meta.js:12:5)
+    at async cors (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.0.0@@koa/cors/index.js:88:16)
+
+pid: 30127
+hostname: huangyaangdeAir.lan
+
+2020-04-25 22:12:17,416 ERROR 30735 [-/127.0.0.1/-/133ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/app/controller/admins.js:77:15)
+    at async errorHandler (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/app/middleware/error_handler.js:4:7)
+    at async /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.5.13.1@koa-session/index.js:41:7)
+    at async bodyParser (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.5.1.2@koa-static-cache/index.js:51:63
+    at async notfound (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.26.0@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.26.0@egg/app/middleware/meta.js:12:5)
+    at async cors (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.0.0@@koa/cors/index.js:88:16)
+
+pid: 30735
+hostname: huangyaangdeAir.lan
+
+2020-04-25 22:13:00,895 ERROR 30735 [-/127.0.0.1/-/33ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/app/controller/admins.js:77:15)
+    at async errorHandler (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/app/middleware/error_handler.js:4:7)
+    at async /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.8.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.5.13.1@koa-session/index.js:41:7)
+    at async bodyParser (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.5.1.2@koa-static-cache/index.js:51:63
+    at async notfound (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.26.0@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.2.26.0@egg/app/middleware/meta.js:12:5)
+    at async cors (/Volumes/MY_USB/work/project/yuanqu/yuanqu-admin/node_modules/.3.0.0@@koa/cors/index.js:88:16)
+
+pid: 30735
+hostname: huangyaangdeAir.lan
+
+2020-04-28 14:04:54,685 ERROR 21368 [-/127.0.0.1/-/69ms GET /api/infos?] nodejs.SequelizeDatabaseError: Unknown column 'id' in 'field list'
+    at Query.formatError (G:\work\project\yuanqu\yuanqu-admin\node_modules\_sequelize@4.44.4@sequelize\lib\dialects\mysql\query.js:247:16)
+    at Query.handler [as onResult] (G:\work\project\yuanqu\yuanqu-admin\node_modules\_sequelize@4.44.4@sequelize\lib\dialects\mysql\query.js:68:23)
+    at Query.execute (G:\work\project\yuanqu\yuanqu-admin\node_modules\_mysql2@1.7.0@mysql2\lib\commands\command.js:30:14)
+    at Connection.handlePacket (G:\work\project\yuanqu\yuanqu-admin\node_modules\_mysql2@1.7.0@mysql2\lib\connection.js:408:32)
+    at PacketParser.Connection.packetParser.p [as onPacket] (G:\work\project\yuanqu\yuanqu-admin\node_modules\_mysql2@1.7.0@mysql2\lib\connection.js:70:12)
+    at PacketParser.executeStart (G:\work\project\yuanqu\yuanqu-admin\node_modules\_mysql2@1.7.0@mysql2\lib\packet_parser.js:75:16)
+    at Socket.Connection.stream.on.data (G:\work\project\yuanqu\yuanqu-admin\node_modules\_mysql2@1.7.0@mysql2\lib\connection.js:77:25)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+From previous event:
+    at Promise.longStackTracesCaptureStackTrace [as _captureStackTrace] (G:\work\project\yuanqu\yuanqu-admin\node_modules\_bluebird@3.7.2@bluebird\js\release\debuggability.js:482:19)
+    at Promise._then (G:\work\project\yuanqu\yuanqu-admin\node_modules\_bluebird@3.7.2@bluebird\js\release\promise.js:261:17)
+    at Promise.then (G:\work\project\yuanqu\yuanqu-admin\node_modules\_bluebird@3.7.2@bluebird\js\release\promise.js:154:17)
+    at Function.findAll (G:\work\project\yuanqu\yuanqu-admin\node_modules\_sequelize@4.44.4@sequelize\lib\model.js:1595:8)
+    at InfoController.index (G:\work\project\yuanqu\yuanqu-admin\app\controller\infos.js:19:41)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at errorHandler (G:\work\project\yuanqu\yuanqu-admin\app\middleware\error_handler.js:4:13)
+    at fn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\middleware.js:112:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at multipart (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-multipart@2.10.2@egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at i18n (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-i18n@2.1.1@egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dta (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'id' in 'field list'","sql":"SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;"}
+original: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'id' in 'field list'","sql":"SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;"}
+sql: "SELECT `id`, `created_at`, `updated_at`, `systemName`, `siteAddress`, `siteTitle`, `seoDesrc`, `seoKey`, `address`, `telephone`, `fax`, `mobilephone`, `email`, `version`, `recordNumber` FROM `infos` AS `info` ORDER BY `info`.`id` DESC;"
+pid: 21368
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 15:22:33,995 ERROR 21368 [-/127.0.0.1/-/151ms POST /api/code/produce] nodejs.ReferenceError: INTEGER is not defined
+    at eval (eval at objStr2Obj (G:\work\project\yuanqu\yuanqu-admin\app\extend\helper.js:33:38), <anonymous>:2:17)
+    at Helper.objStr2Obj (G:\work\project\yuanqu\yuanqu-admin\app\extend\helper.js:33:38)
+    at CodeController.produce (G:\work\project\yuanqu\yuanqu-admin\app\controller\code.js:61:46)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at errorHandler (G:\work\project\yuanqu\yuanqu-admin\app\middleware\error_handler.js:4:13)
+    at fn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\middleware.js:112:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at multipart (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-multipart@2.10.2@egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at i18n (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-i18n@2.1.1@egg-i18n\app\middleware\i18n.js:13:12)
+
+pid: 21368
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 15:27:58,400 ERROR 21368 [-/127.0.0.1/-/44ms POST /api/code/produce] nodejs.ReferenceError: INTEGER is not defined
+    at eval (eval at objStr2Obj (G:\work\project\yuanqu\yuanqu-admin\app\extend\helper.js:33:38), <anonymous>:2:17)
+    at Helper.objStr2Obj (G:\work\project\yuanqu\yuanqu-admin\app\extend\helper.js:33:38)
+    at CodeController.produce (G:\work\project\yuanqu\yuanqu-admin\app\controller\code.js:61:46)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at errorHandler (G:\work\project\yuanqu\yuanqu-admin\app\middleware\error_handler.js:4:13)
+    at fn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\middleware.js:112:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at multipart (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-multipart@2.10.2@egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at i18n (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-i18n@2.1.1@egg-i18n\app\middleware\i18n.js:13:12)
+
+pid: 21368
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 15:33:56,976 ERROR 21368 [-/127.0.0.1/-/87ms POST /api/code/produce] nodejs.SyntaxError: Unexpected identifier
+    at Helper.objStr2Obj (G:\work\project\yuanqu\yuanqu-admin\app\extend\helper.js:33:47)
+    at CodeController.produce (G:\work\project\yuanqu\yuanqu-admin\app\controller\code.js:61:46)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at errorHandler (G:\work\project\yuanqu\yuanqu-admin\app\middleware\error_handler.js:4:13)
+    at fn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\middleware.js:112:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at multipart (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-multipart@2.10.2@egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at i18n (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-i18n@2.1.1@egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 21368
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 15:35:05,323 ERROR 21368 [-/127.0.0.1/-/9ms POST /api/code/produce] nodejs.ReferenceError: DATE is not defined
+    at eval (eval at objStr2Obj (G:\work\project\yuanqu\yuanqu-admin\app\extend\helper.js:33:38), <anonymous>:5:17)
+    at Helper.objStr2Obj (G:\work\project\yuanqu\yuanqu-admin\app\extend\helper.js:33:38)
+    at CodeController.produce (G:\work\project\yuanqu\yuanqu-admin\app\controller\code.js:61:46)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at errorHandler (G:\work\project\yuanqu\yuanqu-admin\app\middleware\error_handler.js:4:13)
+    at fn (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-core@4.17.4@egg-core\lib\loader\mixin\middleware.js:112:12)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at multipart (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-multipart@2.10.2@egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (G:\work\project\yuanqu\yuanqu-admin\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at i18n (G:\work\project\yuanqu\yuanqu-admin\node_modules\_egg-i18n@2.1.1@egg-i18n\app\middleware\i18n.js:13:12)
+
+pid: 21368
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:06:59,573 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\main\\models"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:06:59,594 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\main"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:38,211 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\mock"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:38,228 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\config"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:38,593 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\layouts"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,194 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\models"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,286 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\utils"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,413 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\dist\\static"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,628 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\components\\cmsList"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,661 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\components\\period"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,702 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\components\\tabGrid"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,721 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\components\\tabList"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,741 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\components\\tabs"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,760 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\components\\tag"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,776 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\appDownload"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,839 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\contract"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,858 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\login"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,909 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\assets"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,958 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\components\\circle"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,981 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\components\\cmsDetail"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:39,996 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\components\\loading"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:40,018 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\components\\mainTab"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:40,038 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\components\\myDiv"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:40,056 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\components\\pagination"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:40,071 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\pay"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:40,094 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\redPkgList"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:40,108 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\redPkgRecord"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:40,120 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\zhongcai"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:40,133 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\yangji"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:40,402 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\layout\\activity\\models"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:40,979 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\layout\\cms"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:40,992 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\layout\\cmsDetail"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:41,001 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\layout\\inviteQCode"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:41,010 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\layout\\factoryVedio"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:41,022 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\layout\\myActivity"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:41,030 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\layout\\message"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:41,039 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\layout\\gardenVedio"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:41,048 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\layout\\pastureVedio"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:41,057 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\layout\\buy"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:41,068 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\layout\\myLarn"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:41,079 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\layout\\myGarden"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:41,100 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\layout\\periodList"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:41,108 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\layout\\activity"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:41,248 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\layout"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:49,338 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\dist"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:49,367 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\components"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:49,396 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\more"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:49,729 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\muniuren"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:49,750 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\pasture"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:07:49,759 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages\\wallet"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:08:17,755 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src\\pages"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:08:17,809 ERROR 13892 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\assets\\src"
+name: "EPERMError"
+pid: 13892
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:10:32,091 ERROR 7532 [-/127.0.0.1/-/68ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (G:\work\project\yuanqu\yuanqu-admin\app\controller\admins.js:77:15)
+
+pid: 7532
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:11:37,244 ERROR 7532 [-/127.0.0.1/-/127ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (G:\work\project\yuanqu\yuanqu-admin\app\controller\admins.js:77:15)
+
+pid: 7532
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:13:06,533 ERROR 21084 [-/127.0.0.1/-/94ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (G:\work\project\yuanqu\yuanqu-admin\app\controller\admins.js:85:15)
+
+pid: 21084
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:15:02,726 ERROR 23612 [-/127.0.0.1/-/1213ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (G:\work\project\yuanqu\yuanqu-admin\app\controller\admins.js:85:15)
+
+pid: 23612
+hostname: DESKTOP-A1O76C8
+
+2020-04-28 17:15:41,058 ERROR 11720 [-/127.0.0.1/-/110ms POST /api/adminLogin] nodejs.TypeError: Cannot read property 'password' of null
+    at AdminController.adminLogin (G:\work\project\yuanqu\yuanqu-admin\app\controller\admins.js:86:15)
+
+pid: 11720
+hostname: DESKTOP-A1O76C8
+

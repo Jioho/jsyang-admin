@@ -1,0 +1,344 @@
+{
+  "keys": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+  "middleware": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+  "errorHandler": {
+    "match": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js"
+  },
+  "view": {
+    "mapping": {
+      ".html": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js"
+    },
+    "root": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+  },
+  "security": {
+    "csrf": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+    "domainWhiteList": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
+      "maxAge": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "policy": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "checkAddress": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "static": {
+    "prefix": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+    "dir": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "sequelize": {
+    "dialect": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+    "host": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+    "port": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+    "database": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+    "user": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+    "password": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+    "username": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-sequelize@4.3.1@egg-sequelize\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+    "encoding": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+    "jsonLimit": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+    "formLimit": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+    "strict": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+      "depth": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+      "parameterLimit": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js"
+    },
+    "enableTypes": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+    "extendTypes": {
+      "text": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js"
+    },
+    "textLimit": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "onerror": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+    "autoFields": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-multipart@2.10.2@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-multipart@2.10.2@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-multipart@2.10.2@egg-multipart\\config\\config.default.js",
+    "fieldSize": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-multipart@2.10.2@egg-multipart\\config\\config.default.js",
+    "fields": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-multipart@2.10.2@egg-multipart\\config\\config.default.js",
+    "fileSize": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-multipart@2.10.2@egg-multipart\\config\\config.default.js",
+    "files": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-multipart@2.10.2@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-multipart@2.10.2@egg-multipart\\config\\config.default.js",
+    "whitelist": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-multipart@2.10.2@egg-multipart\\config\\config.default.js",
+    "tmpdir": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-multipart@2.10.2@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-multipart@2.10.2@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "jwtKey": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\config.default.js",
+  "session": {
+    "maxAge": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "key": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "httpOnly": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "encrypt": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js",
+      "file": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "ignoreDirs": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "fastReady": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "overrideDefault": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "cors": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-cors@2.2.3@egg-cors\\config\\config.default.js",
+  "redis": {
+    "default": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-redis@2.4.0@egg-redis\\config\\config.default.js",
+    "app": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-redis@2.4.0@egg-redis\\config\\config.default.js",
+    "agent": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-redis@2.4.0@egg-redis\\config\\config.default.js",
+    "supportTimeCommand": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-redis@2.4.0@egg-redis\\config\\config.default.js"
+  },
+  "sessionRedis": {
+    "name": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-session-redis@2.1.0@egg-session-redis\\config\\config.default.js"
+  },
+  "env": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "name": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "cookies": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "proxy": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "maxIpsCount": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "maxProxyCount": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "protocolHeaders": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "ipHeaders": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "hostHeaders": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "version": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "description": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "private": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "dependencies": {
+      "@alicloud/sms-sdk": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "axios": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-cors": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-redis": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-scripts": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-sequelize": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-session-redis": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "inflected": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "jsonwebtoken": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "mysql2": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "qiniu": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "qr-image": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "sha1": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "shelljs": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "svg-captcha": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "wangeditor": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "xml2js": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "autod-egg": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "axios": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "babel-eslint": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "classnames": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-bin": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-ci": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-mock": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-view-assets": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-view-nunjucks": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "eslint": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "eslint-config-egg": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "eslint-config-umi": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "eslint-plugin-flowtype": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "eslint-plugin-import": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "eslint-plugin-jsx-a11y": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "eslint-plugin-react": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "husky": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "lint-staged": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "sequelize-cli": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "umi": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "umi-plugin-react": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "webstorm-disable-index": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "weixin-js-sdk": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "stop": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "dev": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "debug": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "test": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "test-local": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "cov": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "lint": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "ci": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "autod": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "url": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "lint-staged": {
+      "*.{js,jsx}": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "author": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "license": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "baseDir": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "HOME": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "rundir": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "notFound": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "sitefile": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "middlewares": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "httpClient": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "encoding": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "env": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "level": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "consoleLevel": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "outputJSON": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "buffer": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "appLogName": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "coreLogName": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "agentLogName": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "errorLogName": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxSockets": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxSockets": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "logging": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "serverTimeout": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "port": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "hostname": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "responseTimeout": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "onClientError": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+}
