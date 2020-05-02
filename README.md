@@ -205,6 +205,3 @@ sequelize deprecated String based operators are now deprecated. Please use Symbo
 // ---        { path: '/', redirect: '/manage/admin' },
 +++        { path: '/', redirect: '/manage/student' },
 ```
-
-
-如果你的项目通过JsyangAdmin开发完了，可以看下一章[构建与部署](/build)学习如何将这个项目部署到服务器中，让你的用户通过网络访问你的应用。
