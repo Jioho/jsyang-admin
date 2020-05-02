@@ -215,3 +215,4 @@ hostname: huangyaangdeAir.lan
 2020-05-02 17:31:23,743 INFO 43153 [egg-sequelize](11ms) Executed (default): SELECT `id`, `username`, `password`, `created_at`, `updated_at` FROM `admins` AS `admin` LIMIT 1;
 2020-05-02 17:31:41,559 INFO 43153 [egg-sequelize](10ms) Executed (default): SELECT `id`, `sid`, `sex`, `age`, `telphone`, `score`, `created_at`, `updated_at` FROM `students` AS `student` ORDER BY `student`.`id` DESC;
 2020-05-02 17:54:13,852 INFO 43153 [egg-sequelize](13ms) Executed (default): SELECT `id`, `sid`, `sex`, `age`, `telphone`, `score`, `created_at`, `updated_at` FROM `students` AS `student` ORDER BY `student`.`id` DESC;
+2020-05-02 18:36:12,724 INFO 43153 [egg-sequelize](14ms) Executed (default): SELECT `id`, `sid`, `sex`, `age`, `telphone`, `score`, `created_at`, `updated_at` FROM `students` AS `student` ORDER BY `student`.`id` DESC;

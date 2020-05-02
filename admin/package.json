@@ -110,11 +110,6 @@
         "last 2 versions",
         "not ie <= 10"
     ],
-    "husky": {
-        "hooks": {
-            "pre-commit": "npm run lint-staged"
-        }
-    },
     "resolutions": {
         "moment": "2.24.0"
     }

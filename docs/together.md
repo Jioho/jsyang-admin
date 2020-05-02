@@ -10,5 +10,5 @@
 
 <a data-fancybox title="" href="https://gitee.com/hyy930256283/imgbed/raw/master/blog/20200502182839.png">![](https://gitee.com/hyy930256283/imgbed/raw/master/blog/20200502182839.png)</a>
 
-## 捐赠
-或者...你可以在[关于作者](/me)这里请我喝杯咖啡，或者和我交个朋友😀
+## 联系作者
+你可以在[关于作者](/me)与我联系，和我交流这个项目的事情

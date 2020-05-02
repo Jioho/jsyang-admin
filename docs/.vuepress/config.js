@@ -21,8 +21,9 @@ module.exports = {
     // sidebar: 'auto',
     logo: '/logo.png',
     displayAllHeaders: true,
-    sidebar: ['/', '/info', '/env', '/dev', 'learn', '/advance','/build', '/together', '/me'],
+    sidebar: [ '/info', '/env', '/dev', 'learn', '/advance','/build', '/together', '/me'],
     nav: [
+      {text: '首页',link: '/'},
       {
         text: '项目使用依赖相关文档',
         items: [
