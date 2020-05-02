@@ -1,1 +1,1 @@
-module.exports = ["admins"]
+module.exports = ["admins","students","goods"]

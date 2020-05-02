@@ -129,7 +129,7 @@ class BasicForms extends PureComponent {
               })(<Input placeholder="包名将作为生成的代码的文件名" />)}
             </FormItem>
 
-            <FormItem {...formItemLayout} label={<FormattedMessage id="form.public.label" />}>
+            <FormItem {...formItemLayout} label="字段结构设计">
               <div>
                 {getFieldDecorator('structrueType', {
                   initialValue: '2',
@@ -175,7 +175,7 @@ class BasicForms extends PureComponent {
                       />
                     )}
                   </FormItem>
-                  <FormItem {...formItemLayout} label="字段注释对象">
+                  {/* <FormItem {...formItemLayout} label="字段注释对象">
                     {getFieldDecorator('comments', {
                       rules: [
                         {
@@ -197,7 +197,7 @@ class BasicForms extends PureComponent {
                         rows={10}
                       />
                     )}
-                  </FormItem>
+                  </FormItem> */}
                 </div>
               </div>
             </FormItem>

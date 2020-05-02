@@ -81,29 +81,29 @@
     "onerror": {
       "errorPageUrl": "",
       "appErrorFilter": null,
-      "templatePath": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\lib\\onerror_page.mustache"
+      "templatePath": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.1.0@egg-onerror/lib/onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
       "dirs": [
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-session@3.1.0@egg-session\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-multipart@2.10.2@egg-multipart\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-development@2.4.3@egg-development\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-static@2.2.0@egg-static\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-view@2.1.2@egg-view\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-sequelize@4.3.1@egg-sequelize\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-cors@2.2.3@egg-cors\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-redis@2.4.0@egg-redis\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-session-redis@2.1.0@egg-session-redis\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\locales",
-        "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\locales"
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.3.1.0@egg-session/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.8.0@egg-security/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.0.0@egg-jsonp/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.1.0@egg-onerror/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.1.1@egg-i18n/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.3.1.1@egg-watcher/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.3.6.4@egg-schedule/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.10.2@egg-multipart/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.4.3@egg-development/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.3.1.0@egg-logrotator/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.2.0@egg-static/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.1.2@egg-view/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.4.3.1@egg-sequelize/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.2.3@egg-cors/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.4.0@egg-redis/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.1.0@egg-session-redis/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.26.0@egg/config/locales",
+        "/Volumes/MY_USB/work/opensource/jsyang-admin/config/locales"
       ],
       "queryField": "locale",
       "cookieField": "locale",
@@ -114,8 +114,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\lib\\event-sources\\default",
-        "development": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\lib\\event-sources\\development"
+        "default": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.3.1.1@egg-watcher/lib/event-sources/default",
+        "development": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.3.1.1@egg-watcher/lib/event-sources/development"
       }
     },
     "customLogger": {
@@ -138,7 +138,7 @@
       "files": 10,
       "fileExtensions": [],
       "whitelist": null,
-      "tmpdir": "C:\\Users\\huang\\AppData\\Local\\Temp\\egg-multipart-tmp\\server",
+      "tmpdir": "/var/folders/6h/27s2893j1k98dc94fh6l2l740000gn/T/egg-multipart-tmp/server",
       "cleanSchedule": {
         "cron": "0 30 4 * * *"
       }
@@ -161,14 +161,14 @@
     },
     "static": {
       "prefix": "/",
-      "dir": "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\public",
+      "dir": "/Volumes/MY_USB/work/opensource/jsyang-admin/app/public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "G:\\work\\project\\yuanqu\\yuanqu-admin\\app\\view",
+      "root": "/Volumes/MY_USB/work/opensource/jsyang-admin/app/view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
@@ -289,9 +289,9 @@
       "author": "jsyang",
       "license": "MIT"
     },
-    "baseDir": "G:\\work\\project\\yuanqu\\yuanqu-admin",
-    "HOME": "C:\\Users\\huang",
-    "rundir": "G:\\work\\project\\yuanqu\\yuanqu-admin\\run",
+    "baseDir": "/Volumes/MY_USB/work/opensource/jsyang-admin",
+    "HOME": "/Users/huangyanyang",
+    "rundir": "/Volumes/MY_USB/work/opensource/jsyang-admin/run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -334,7 +334,7 @@
       "returnRawBody": true
     },
     "logger": {
-      "dir": "G:\\work\\project\\yuanqu\\yuanqu-admin\\logs\\server",
+      "dir": "/Volumes/MY_USB/work/opensource/jsyang-admin/logs/server",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -435,8 +435,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-session@3.1.0@egg-session",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.26.0@egg/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.3.1.0@egg-session",
       "version": "3.1.0"
     },
     "security": {
@@ -448,8 +448,8 @@
         "session"
       ],
       "env": [],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-security@2.8.0@egg-security",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.26.0@egg/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.8.0@egg-security",
       "version": "2.8.0"
     },
     "jsonp": {
@@ -461,8 +461,8 @@
         "security"
       ],
       "env": [],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.26.0@egg/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.0.0@egg-jsonp",
       "version": "2.0.0"
     },
     "onerror": {
@@ -474,8 +474,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-onerror@2.1.0@egg-onerror",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.26.0@egg/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.1.0@egg-onerror",
       "version": "2.1.0"
     },
     "i18n": {
@@ -485,8 +485,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-i18n@2.1.1@egg-i18n",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.26.0@egg/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.1.1@egg-i18n",
       "version": "2.1.1"
     },
     "watcher": {
@@ -496,8 +496,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-watcher@3.1.1@egg-watcher",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.26.0@egg/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.3.1.1@egg-watcher",
       "version": "3.1.1"
     },
     "schedule": {
@@ -507,8 +507,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-schedule@3.6.4@egg-schedule",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.26.0@egg/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.3.6.4@egg-schedule",
       "version": "3.6.4"
     },
     "multipart": {
@@ -520,8 +520,8 @@
         "schedule"
       ],
       "env": [],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-multipart@2.10.2@egg-multipart",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.26.0@egg/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.10.2@egg-multipart",
       "version": "2.10.2"
     },
     "development": {
@@ -535,8 +535,8 @@
       "env": [
         "local"
       ],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-development@2.4.3@egg-development",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.26.0@egg/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.4.3@egg-development",
       "version": "2.4.3"
     },
     "logrotator": {
@@ -548,8 +548,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.26.0@egg/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.3.1.0@egg-logrotator",
       "version": "3.1.0"
     },
     "static": {
@@ -559,8 +559,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-static@2.2.0@egg-static",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.26.0@egg/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.2.0@egg-static",
       "version": "2.2.0"
     },
     "view": {
@@ -570,8 +570,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-view@2.1.2@egg-view",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.26.0@egg/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.1.2@egg-view",
       "version": "2.1.2"
     },
     "sequelize": {
@@ -581,8 +581,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-sequelize@4.3.1@egg-sequelize",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.4.3.1@egg-sequelize",
       "version": "4.3.1"
     },
     "cors": {
@@ -592,8 +592,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-cors@2.2.3@egg-cors",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.2.3@egg-cors",
       "version": "2.2.3"
     },
     "redis": {
@@ -603,8 +603,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-redis@2.4.0@egg-redis",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.4.0@egg-redis",
       "version": "2.4.0"
     },
     "sessionRedis": {
@@ -616,8 +616,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "G:\\work\\project\\yuanqu\\yuanqu-admin\\config\\plugin.js",
-      "path": "G:\\work\\project\\yuanqu\\yuanqu-admin\\node_modules\\_egg-session-redis@2.1.0@egg-session-redis",
+      "from": "/Volumes/MY_USB/work/opensource/jsyang-admin/config/plugin.js",
+      "path": "/Volumes/MY_USB/work/opensource/jsyang-admin/node_modules/.2.1.0@egg-session-redis",
       "version": "2.1.0"
     }
   }
