@@ -5,7 +5,22 @@
 
 文档：[https://jsyangadmin.github.io/](https://jsyangadmin.github.io/)
 
-## 使用方法:
+# 使用教程
+
+## 登录后台
+默认登录账号:``admin``,密码：``jsyang666``
+>这两个写死在代码里了,可以在/jsyang-admin/app/controller/admins.js下的``adminLogin``函数去修改对应代码
+
+## 创建没有生成代码和管理员管理菜单的用户
+
+点击管理员管理-新建-输入账号密码-确定
+
+![](https://gitee.com/hyy930256283/imgbed/raw/master/blog/new-user.png)
+
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502123446.png)
+
+## 生成最简单的curd(增删改查)界面
+假设我们现在要做有个学生统计表，学生有id,学号sid，性别sex,年龄age,电话号码telphone，学分score,创建时间created_at,更新时间updated_at这些字段，现在我们需要给他做一个增删改查的功能，同时还要提供接口给移动端或者其他客户端使用，看看我们怎么通过JsyangAdmin快速实现这个功能:
 ### 新建一个符合以上需求的对象(建议在ide中用js文件编写，可以事先检查语法错误):
 ```js
 {
@@ -26,11 +41,11 @@
 - 将以上写好的对象复制进Model定义源代码的输入框中
 - 点击提交
 
-<a data-fancybox title="" href="https://gitee.com/hyy930256283/imgbed/raw/master/blog/add-structure.png">![](https://gitee.com/hyy930256283/imgbed/raw/master/blog/add-structure.png)</a>
+![](https://gitee.com/hyy930256283/imgbed/raw/master/blog/add-structure.png)
 
 如果看到提交成功的提示说明代码已经生成成功，这时候你会看到前台和后台的两个命令行窗口已经开始自动编译，运行了:
 
-<a data-fancybox title="" href="https://gitee.com/hyy930256283/imgbed/raw/master/blog/student-success.png">![](https://gitee.com/hyy930256283/imgbed/raw/master/blog/student-success.png)</a>
+![](https://gitee.com/hyy930256283/imgbed/raw/master/blog/student-success.png)
 
 
 这个时候先不要急着点击学生管理查看效果，会报错的，因为数据表还没生成呢，所以还需要一步(这里后续会考虑引入shell.js自动执行，再给大家省点心😁)
@@ -68,23 +83,23 @@ mysql> show tables;
 ```
 确定students表生成成功，现在我们可以放心地去点击前台的**学生管理**菜单查看效果了：
 
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502122246.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502122246.png)</a>
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502122246.png)
 
 ### 测试增删改查功能
 - 新增 & 查看
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502131306.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502131306.png)</a>
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502131411.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502131411.png)</a>
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502131306.png)
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502131411.png)
 
 - 编辑
 
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502131549.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502131549.png)</a>
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502131549.png)
 
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502131717.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502131717.png)</a>
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502131717.png)
 
 - 删除
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502132114.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502132114.png)</a>
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502132156.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502132156.png)</a>
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502132244.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502132244.png)</a>
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502132114.png)
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502132156.png)
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502132244.png)
 
 # 进阶
 
@@ -123,14 +138,14 @@ mysql> show tables;
 }
 ```
 为了保留状态，这次我们可以通过项目提供的接口``/localhost:7001/api/code/produce``进行代码生成，使用**postman**进行接口提交
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502154916.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502154916.png)</a>
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502154945.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502154945.png)</a>
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502154916.png)
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502154945.png)
 
 >这个接口还提供了一个参数icon用于设置菜单的图标，支持的图标可以查看[antd-design图标文档](https://ant.design/components/icon-cn/)
 
 
 点击提交发送参数到接口
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502160244.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502160244.png)</a>
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502160244.png)
 接口返回代码生成成功，这时候前台和后台又会检测到代码变化，重新开始编译，编译完记得运行``npx sequelize db:migrate``进行数据表的生成哦
 ```shell
 npx sequelize db:migrate
@@ -145,12 +160,12 @@ sequelize deprecated String based operators are now deprecated. Please use Symbo
 ```
 之后就是点击生成的菜单**商品管理**进行增删改查的测试啦
 - 关联类型
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502165408.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502165408.png)</a>
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502165408.png)
 - 图片类型 & 富文本类型
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502165458.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502165458.png)</a>
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502165627.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502165627.png)</a>
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502165458.png)
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502165627.png)
 点击确定，新增成功！
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502165848.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502165848.png)</a>
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502165848.png)
 
 编辑和删除和上一章操作一样，这里不再赘述。
 
@@ -171,9 +186,9 @@ sequelize deprecated String based operators are now deprecated. Please use Symbo
 >具体实现可以查看[egg restful风格路由](https://eggjs.org/zh-cn/basics/router.html#restful-%E9%A3%8E%E6%A0%BC%E7%9A%84-url-%E5%AE%9A%E4%B9%89)
 
 ## 登录普通权限的账号查看效果
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502173005.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502173005.png)</a>
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502173114.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502173114.png)</a>
-<a data-fancybox title="" href="https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502173207.png">![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502173207.png)</a>
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502173005.png)
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502173114.png)
+![](https://cdn.jsdelivr.net/gh/jsyang666/imgbed/20200502173207.png)
 可以看到，使用我们在管理员管理的账号密码登录后只能看到**学生管理**和**商品管理**两个菜单，并没有**管理员管理**和**代码生成**两个菜单权限，这样就可以将这个账号密码给你的客户使用了。
 
 
@@ -183,7 +198,7 @@ sequelize deprecated String based operators are now deprecated. Please use Symbo
 
 
 首次登陆你可能会进入这个页面
-<a data-fancybox title="" href="https://gitee.com/hyy930256283/imgbed/raw/master/blog/20200502175120.png">![](https://gitee.com/hyy930256283/imgbed/raw/master/blog/20200502175120.png)</a>
+![](https://gitee.com/hyy930256283/imgbed/raw/master/blog/20200502175120.png)
 那是因为首页设置默认路由是``http://localhost:8000/#/manage/admin``,而这个路由只有超级管理员才有权限访问，所以会显示403,你可以去antd-pro的路由配置更改默认路由为``http://localhost:8000/#/manage/student``,这样你的客户刚登陆进来就不会一头雾水了。
 ```js
     routes: [
